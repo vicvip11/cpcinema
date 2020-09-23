@@ -1,0 +1,32 @@
+﻿@{
+    Layout = null; 
+}
+
+<!DOCTYPE html>
+<html ng-app="cpcModule">
+    <head>
+        <meta charset="utf-8" />
+        <title>CP Cinema!</title>
+        <link rel="shortcut icon" type="image/x-icon" href="~/Icon.ico"/>
+
+        <script src="~/jslib/Angular.min.js"></script>
+        <script src="~/jslib/Angular.route.js"></script>
+        <script src="~/jslib/jquery-3.5.1.min.js"></script>
+        <script src="~/jslib/MovieGenreLib.js"></script>
+
+        <script src="~/app/cpcRouteProvider.js"></script>
+        <script src="~/app/controllers/cpcController.js"></script>
+        <script src="~/app/controllers/ssController.js"></script>
+        <script src="~/app/services/cpcServices.js"></script>
+
+        <link type="text/css" rel="stylesheet" href="~/css/Header.css"/>
+        <link type="text/css" rel="stylesheet" href="~/css/cpcSeeMovies.css"/>
+    </head>
+    <body>
+        <div class="header">
+            <div><a href="#!">Home</a></div>
+            <div id="loginBar">Login</div>
+        </div>
+        <div ng-view></div>
+    </body>
+</html>

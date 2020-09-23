@@ -1,0 +1,56 @@
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.deps.json
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.AssemblyInfoInputs.cache
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.AssemblyInfo.cs
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csprojAssemblyReference.cache
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csproj.CoreCompileInputs.cache
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Interface.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Interface.pdb
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csproj.CopyComplete
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.deps.json
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Interface.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Model.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Interface.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Model.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csprojAssemblyReference.cache
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.AssemblyInfoInputs.cache
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.AssemblyInfo.cs
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csproj.CoreCompileInputs.cache
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csproj.CopyComplete
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\Brug\Videos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csprojAssemblyReference.cache
+C:\Users\Brug\Videos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.AssemblyInfoInputs.cache
+C:\Users\Brug\Videos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.AssemblyInfo.cs
+C:\Users\Brug\Videos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csproj.CoreCompileInputs.cache
+C:\Users\Brug\Videos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\Brug\Videos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\Brug\Videos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.deps.json
+C:\Users\Brug\Videos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\Brug\Videos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\Brug\Videos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Interface.dll
+C:\Users\Brug\Videos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Model.dll
+C:\Users\Brug\Videos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Interface.pdb
+C:\Users\Brug\Videos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Model.pdb
+C:\Users\Brug\Videos\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csproj.CopyComplete
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Model.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Model.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.deps.json
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Interface.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Model.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Interface.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\bin\Debug\netcoreapp3.1\Core.Model.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csprojAssemblyReference.cache
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.AssemblyInfoInputs.cache
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.AssemblyInfo.cs
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csproj.CoreCompileInputs.cache
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.csproj.CopyComplete
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Core.Service\obj\Debug\netcoreapp3.1\Core.Service.pdb

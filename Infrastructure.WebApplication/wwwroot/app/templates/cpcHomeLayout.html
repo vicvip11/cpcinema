@@ -1,0 +1,16 @@
+﻿<div ng-controller="cpcController" class="movieHolderContainer">
+    <div ng-repeat="item in movies" class="movieHolder" ng-click="selectMovie(item)" ng-hide="thisMovie != null">
+        <img src="data:image/png;base64, {{item.imageString}}" alt="Red Dot" />
+        Movie name: {{item.name}}
+    </div>
+
+    <div ng-show="thisMovie != null" id="selectMovie">
+        <button type="button" ng-click="back()">Back</button>
+        <img src="data:image/png;base64, {{thisMovie.imageString}}" alt="Red Dot" />
+        Movie name: {{thisMovie.name}}
+        Movie length: {{thisMovie.length}}
+        Movie description: {{thisMovie.desc}}
+        Movie genre: {{thisMovie.genre}}
+        <a href="#!showShows/{{thisMovie.id}}">Shows for this movie</a>
+    </div>
+</div>

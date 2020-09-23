@@ -1,0 +1,72 @@
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.deps.json
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.pdb
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.AssemblyInfoInputs.cache
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.AssemblyInfo.cs
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.pdb
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csprojAssemblyReference.cache
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csproj.CoreCompileInputs.cache
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Interface.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.SQL.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Interface.pdb
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.SQL.pdb
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csproj.CopyComplete
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.deps.json
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Interface.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Model.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.SQL.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Interface.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.SQL.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Model.pdb
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csprojAssemblyReference.cache
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.AssemblyInfoInputs.cache
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.AssemblyInfo.cs
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csproj.CoreCompileInputs.cache
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csproj.CopyComplete
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.dll
+C:\Users\The Chosen One\source\repos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.pdb
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.deps.json
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.dll
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.pdb
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Interface.dll
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Model.dll
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.SQL.dll
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Interface.pdb
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.SQL.pdb
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Model.pdb
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csprojAssemblyReference.cache
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.AssemblyInfoInputs.cache
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.AssemblyInfo.cs
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csproj.CoreCompileInputs.cache
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csproj.CopyComplete
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.dll
+C:\Users\Brug\Videos\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.pdb
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Model.dll
+C:\Users\TheCakeKing\source\repos\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Model.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.deps.json
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Interface.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Model.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Service.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.SQL.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Interface.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Service.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Infrastructure.SQL.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\bin\Debug\netcoreapp3.1\Core.Model.pdb
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csprojAssemblyReference.cache
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.AssemblyInfoInputs.cache
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.AssemblyInfo.cs
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csproj.CoreCompileInputs.cache
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.csproj.CopyComplete
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.dll
+C:\Users\The Chosen One\Desktop\CinemaTask\Infrastructure.DependencyResolution\obj\Debug\netcoreapp3.1\Infrastructure.DependencyResolution.pdb

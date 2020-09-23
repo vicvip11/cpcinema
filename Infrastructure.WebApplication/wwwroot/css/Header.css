@@ -1,0 +1,53 @@
+﻿body
+{
+    background-color: #b2b5b8;
+    padding: 0;
+    margin: 0;
+}
+
+body div
+{
+    margin-top: 50px;
+}
+
+.header
+{
+    background: #141414;
+    margin-top: 0px;
+    position: fixed;
+    color: white;
+    height: 50px;
+    width: 100%;
+    z-index: 2;
+    left: 0;
+    top: 0;
+}
+
+.header div
+{
+    border-right: solid 1px gray;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 13px;
+    font-size: 24px;
+    display: inline-block;
+    height: 37px;
+    width: auto;
+    margin: 0px;
+}
+
+.header div a 
+{
+    text-decoration: none;
+    color: white;
+}
+
+.header div:first-child
+{
+    padding-left: 35%;
+}
+
+.header div:last-child
+{
+    border-right: unset;
+}

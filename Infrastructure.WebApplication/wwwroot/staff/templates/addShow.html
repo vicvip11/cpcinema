@@ -1,0 +1,16 @@
+﻿<div data-ng-init="addShowInit()">
+    <form enctype="multipart/form-data" method="post">
+        <label>Select movie: </label>
+        <select ng-model="show.movie">
+            <option ng-repeat="item in movies" value="{{item.id}}">{{item.name}}</option>
+        </select>
+        <select ng-model="show.hall">
+            <option ng-repeat="item in halls" value="{{item}}">{{item}}</option>
+        </select>
+        <input type="date" ng-model="show.date" />
+        <button type="button" ng-click="checkHallForShowsBtn()">Check hall for shows</button>
+        <input type="time" ng-model="show.time" />
+    </form>
+
+    <button type="button" ng-click="addShowBtn()">Add show</button>
+</div>
